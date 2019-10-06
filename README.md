@@ -1,2 +1,2 @@
-# euler
-Euler's problems
+# Euler's problems
+Project Euler in various languages
