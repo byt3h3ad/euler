@@ -1,4 +1,4 @@
 # Euler's problems
-Project Euler in various languages.
+[Project Euler](https://projecteuler.net) in various languages.
 
-And also some Brilliant problems. 
+And also some [Brilliant](https://brilliant.org) problems. 
