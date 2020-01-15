@@ -1,4 +1,4 @@
-```C++
+```
 #include <iostream>
 
 // C++ program to find LCM of n elements 
