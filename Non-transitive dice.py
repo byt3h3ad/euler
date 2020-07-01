@@ -1,3 +1,4 @@
+[Problem](https://brilliant.org/daily-problems/non-transitive-dice/)
 def win_prob(die1,die2):
     wins = 0
     for a in die1:
